@@ -1,2 +1,2 @@
 "# Assistant" 
-This is used to connect watsonx+assistant
+This is jsom file created like restapi used to connect watsonx + assistant
